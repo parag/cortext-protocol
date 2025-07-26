@@ -71,13 +71,8 @@ Every insight gets captured using our standardized template:
 
 ## 🚀 By Parag Arora
 
-**Founder & Builder**  
-- **YC W24** - Building the future of AI infrastructure
-- **Paytm** - Scaled payments to 400M+ users
-- **35u35** - Forbes recognition for innovation
-- **Revelin7** - AI-powered insights platform
 
-**Connect:** [LinkedIn](https://linkedin.com/in/paragarora) | [Twitter](https://twitter.com/paragarora)
+**Connect:** [LinkedIn](https://linkedin.com/in/paragarora) 
 
 ## 🌟 Call to Action
 
